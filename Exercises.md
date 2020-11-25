@@ -8,12 +8,15 @@ In this excercise, you will work with your own local repository and perform basi
 
 ### 1.1 Init, branches and commits ([hints](./Hints/Exercise-1-1.md))
 1. Initialize a repository (repo A)
-2. Create a branch "exercise-1-1" and switch to it
-3. Create a text file with "Exercise 1.1" in it
-4. Add the text file to the index (stage the changes)
-5. Commit
-6. Add the word "edited" to the text file and commit again
-7. Merge the branch into master
+2. Create a file a file named "README.md" with some text in it
+3. Add the text file to the index (stage the changes)
+4. Commit the changes
+5. Create a branch "exercise-1-1" and switch to it
+6. Create a text file with "Exercise 1.1" in it
+7. Stage the changes
+8. Commit
+9. Add the word "edited" to the text file and commit again
+10. Merge the branch into master
 
 ### 1.2 .gitignore ([hints](./Hints/Exercise-1-2.md))
 1. Make a branch "exercise-1-2" and switch to it
@@ -45,6 +48,7 @@ In this excercise, you will work with your own local repository and perform basi
 
 ## Exercise 2: Forking and contributing ([hints](./Hints/Exercise-2.md))
 In this exercise, you will fork this exercises repo and contribute to it though a Pull Request.
+*The repo might have been forked for you automatically when you joined the organization on GitHub. In this case, you can skip step 1.*
 
 1. Fork the main repo
 2. Add a branch with your first name
