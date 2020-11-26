@@ -22,7 +22,7 @@ In this excercise, you will work with your own local repository and perform basi
 1. Make a branch "exercise-1-2" and switch to it
 2. Add a .gitignore file that ignores .png and .jpg files
 3. Add some images with these extensions and another text file with "Exercise 1.2" in it to your working folder
-   - Tip: Use `git commit -a` to stage all files at once.
+   - Tip: Use `git add .` to stage all files at once.
 4. Add and commit a file with .jpg extension without changing the .gitignore file
 5. Merge the branch into master
 
