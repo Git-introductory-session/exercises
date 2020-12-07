@@ -1,0 +1,1 @@
+Het zijn niet allen koks die lange messen dragen
